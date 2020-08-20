@@ -1,7 +1,3 @@
-# Objetivos de la repositorio
+# Git GitHub Course #1
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
-
-## Notas
-
-Pueden hacer lo que quieran...
+Project | course | practices 📚 about Git & GitHub #1
